@@ -1,4 +1,4 @@
-host = '192.168.167.127:1337'
+host = 'aeroyu.vicp.net:1337'
 
 function get_list(compiledListTemplate, id, callback) {
     var url = 'http://' + host + '/list'
